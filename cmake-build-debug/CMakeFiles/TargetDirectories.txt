@@ -1,0 +1,3 @@
+/Users/danielawm/Desktop/Master/ejercicioMedia/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/danielawm/Desktop/Master/ejercicioMedia/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/danielawm/Desktop/Master/ejercicioMedia/cmake-build-debug/CMakeFiles/ejercicioMedia.dir
